@@ -1,0 +1,6 @@
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\IocAndDi\Norbit.GCRM.IocAndDi\bin\Debug\Norbit.GCRM.IocAndDi.exe.config
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\IocAndDi\Norbit.GCRM.IocAndDi\bin\Debug\Norbit.GCRM.IocAndDi.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\IocAndDi\Norbit.GCRM.IocAndDi\bin\Debug\Norbit.GCRM.IocAndDi.pdb
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\IocAndDi\Norbit.GCRM.IocAndDi\obj\Debug\Norbit.GCRM.IocAndDi.csproj.CoreCompileInputs.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\IocAndDi\Norbit.GCRM.IocAndDi\obj\Debug\Norbit.GCRM.IocAndDi.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\IocAndDi\Norbit.GCRM.IocAndDi\obj\Debug\Norbit.GCRM.IocAndDi.pdb

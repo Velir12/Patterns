@@ -1,0 +1,7 @@
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Mediator\Norbit.GCRM.Mediator\bin\Debug\Norbit.GCRM.Mediator.exe.config
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Mediator\Norbit.GCRM.Mediator\bin\Debug\Norbit.GCRM.Mediator.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Mediator\Norbit.GCRM.Mediator\bin\Debug\Norbit.GCRM.Mediator.pdb
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Mediator\Norbit.GCRM.Mediator\obj\Debug\Norbit.GCRM.Mediator.csprojAssemblyReference.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Mediator\Norbit.GCRM.Mediator\obj\Debug\Norbit.GCRM.Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Mediator\Norbit.GCRM.Mediator\obj\Debug\Norbit.GCRM.Mediator.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Mediator\Norbit.GCRM.Mediator\obj\Debug\Norbit.GCRM.Mediator.pdb

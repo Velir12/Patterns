@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Singleton", "Singleton", "{24D59759-EA26-4BE7-BA99-7B13E2BA373A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Gcrm.Medvedev.SingletonConsoleApp", "Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\Norbit.Gcrm.Medvedev.SingletonConsoleApp.csproj", "{7F851904-057D-4060-81B5-5F58EF450B06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{EA9A3ED3-F111-4CF3-A973-CEB2F233E3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.GCRM.Medvedev.AdapterConsoleApp", "Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\Norbit.GCRM.Medvedev.AdapterConsoleApp.csproj", "{23CB856B-E104-4F04-B10C-31EA9D33D7EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "AbstractFactory", "{77BD93D7-A1D1-4B41-88FB-003C38F7D59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp", "AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.csproj", "{5760CF88-3383-4F3B-8F20-1300B2451876}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mediator", "Mediator", "{28E6E51E-9436-444F-ACF2-D67AFD5CBCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.GCRM.Mediator", "Mediator\Norbit.GCRM.Mediator\Norbit.GCRM.Mediator.csproj", "{6307A3EF-1DAF-49E4-B250-5B5F683390E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Decorator", "Decorator", "{FC85151F-030F-4314-BBDF-6D6EA4462582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.GCRM.Decorator", "Decorator\NORBIT.GCRM.Decorator\Norbit.GCRM.Decorator.csproj", "{C19E4211-1EFF-4B86-8405-8F379D871502}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Observer", "Observer", "{A3E2E870-1D1A-48B4-8D41-B2F9C390E79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.GCRM.Medvedev.Observer", "Observer\Norbit.GCRM.Medvedev.Observer\Norbit.GCRM.Medvedev.Observer.csproj", "{0B279A94-9F84-4C63-99EE-09E4CCD3F8CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IocAndDi", "IocAndDi", "{3E33283A-8099-42C8-8FBB-BFFD7B0F21C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.GCRM.IocAndDi", "IocAndDi\Norbit.GCRM.IocAndDi\Norbit.GCRM.IocAndDi.csproj", "{47A25DE3-2BBC-499C-AF41-C2170D954599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F851904-057D-4060-81B5-5F58EF450B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F851904-057D-4060-81B5-5F58EF450B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F851904-057D-4060-81B5-5F58EF450B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F851904-057D-4060-81B5-5F58EF450B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CB856B-E104-4F04-B10C-31EA9D33D7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CB856B-E104-4F04-B10C-31EA9D33D7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CB856B-E104-4F04-B10C-31EA9D33D7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CB856B-E104-4F04-B10C-31EA9D33D7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5760CF88-3383-4F3B-8F20-1300B2451876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5760CF88-3383-4F3B-8F20-1300B2451876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5760CF88-3383-4F3B-8F20-1300B2451876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5760CF88-3383-4F3B-8F20-1300B2451876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6307A3EF-1DAF-49E4-B250-5B5F683390E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6307A3EF-1DAF-49E4-B250-5B5F683390E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6307A3EF-1DAF-49E4-B250-5B5F683390E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6307A3EF-1DAF-49E4-B250-5B5F683390E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19E4211-1EFF-4B86-8405-8F379D871502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19E4211-1EFF-4B86-8405-8F379D871502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19E4211-1EFF-4B86-8405-8F379D871502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19E4211-1EFF-4B86-8405-8F379D871502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B279A94-9F84-4C63-99EE-09E4CCD3F8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B279A94-9F84-4C63-99EE-09E4CCD3F8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B279A94-9F84-4C63-99EE-09E4CCD3F8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B279A94-9F84-4C63-99EE-09E4CCD3F8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A25DE3-2BBC-499C-AF41-C2170D954599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A25DE3-2BBC-499C-AF41-C2170D954599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A25DE3-2BBC-499C-AF41-C2170D954599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A25DE3-2BBC-499C-AF41-C2170D954599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F851904-057D-4060-81B5-5F58EF450B06} = {24D59759-EA26-4BE7-BA99-7B13E2BA373A}
+		{23CB856B-E104-4F04-B10C-31EA9D33D7EE} = {EA9A3ED3-F111-4CF3-A973-CEB2F233E3E3}
+		{5760CF88-3383-4F3B-8F20-1300B2451876} = {77BD93D7-A1D1-4B41-88FB-003C38F7D59C}
+		{6307A3EF-1DAF-49E4-B250-5B5F683390E6} = {28E6E51E-9436-444F-ACF2-D67AFD5CBCAC}
+		{C19E4211-1EFF-4B86-8405-8F379D871502} = {FC85151F-030F-4314-BBDF-6D6EA4462582}
+		{0B279A94-9F84-4C63-99EE-09E4CCD3F8CC} = {A3E2E870-1D1A-48B4-8D41-B2F9C390E79A}
+		{47A25DE3-2BBC-499C-AF41-C2170D954599} = {3E33283A-8099-42C8-8FBB-BFFD7B0F21C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AEF154F-3E32-422F-8423-2596F0FACE13}
+	EndGlobalSection
+EndGlobal

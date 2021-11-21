@@ -1,0 +1,14 @@
+C:\Career\Norbit.Gcrm.Medvedev\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\bin\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.exe.config
+C:\Career\Norbit.Gcrm.Medvedev\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\bin\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.exe
+C:\Career\Norbit.Gcrm.Medvedev\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\bin\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.pdb
+C:\Career\Norbit.Gcrm.Medvedev\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.csproj.AssemblyReference.cache
+C:\Career\Norbit.Gcrm.Medvedev\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.csproj.CoreCompileInputs.cache
+C:\Career\Norbit.Gcrm.Medvedev\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.exe
+C:\Career\Norbit.Gcrm.Medvedev\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.pdb
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\bin\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.exe.config
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\bin\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\bin\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.pdb
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.csprojAssemblyReference.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Singleton\Norbit.Gcrm.Medvedev.SingletonConsoleApp\obj\Debug\Norbit.Gcrm.Medvedev.SingletonConsoleApp.pdb

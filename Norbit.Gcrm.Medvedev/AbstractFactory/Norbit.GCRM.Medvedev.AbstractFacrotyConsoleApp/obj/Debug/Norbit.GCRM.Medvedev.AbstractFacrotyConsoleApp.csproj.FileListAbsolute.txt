@@ -1,0 +1,6 @@
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.exe.config
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.pdb
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.pdb

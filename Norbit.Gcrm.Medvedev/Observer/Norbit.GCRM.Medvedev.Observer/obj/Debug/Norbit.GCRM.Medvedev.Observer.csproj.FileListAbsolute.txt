@@ -1,0 +1,6 @@
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Observer\Norbit.GCRM.Medvedev.Observer\bin\Debug\Norbit.GCRM.Medvedev.Observer.exe.config
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Observer\Norbit.GCRM.Medvedev.Observer\bin\Debug\Norbit.GCRM.Medvedev.Observer.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Observer\Norbit.GCRM.Medvedev.Observer\bin\Debug\Norbit.GCRM.Medvedev.Observer.pdb
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Observer\Norbit.GCRM.Medvedev.Observer\obj\Debug\Norbit.GCRM.Medvedev.Observer.csproj.CoreCompileInputs.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Observer\Norbit.GCRM.Medvedev.Observer\obj\Debug\Norbit.GCRM.Medvedev.Observer.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Observer\Norbit.GCRM.Medvedev.Observer\obj\Debug\Norbit.GCRM.Medvedev.Observer.pdb

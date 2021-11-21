@@ -1,0 +1,7 @@
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\bin\Debug\NORBIT.GCRM.Decorator.exe.config
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\bin\Debug\NORBIT.GCRM.Decorator.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\bin\Debug\NORBIT.GCRM.Decorator.pdb
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.csprojAssemblyReference.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.exe
+C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.pdb
