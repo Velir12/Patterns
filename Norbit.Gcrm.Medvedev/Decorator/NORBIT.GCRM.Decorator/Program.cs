@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NORBIT.GCRM.Decorator;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,11 +11,19 @@ namespace Norbit.GCRM.Decorator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(new AmericanPizza());
-            Console.WriteLine(new ItalianPizza());
+            var contact = new Contact(Guid.NewGuid(), "Иван", "Медведев", "+79123365895", "elurezvelir2017@gmail.com");
+            var employee = new Employee(contact, "Продавец мебели");
 
-            Console.WriteLine(new MushroomPizza(new ItalianPizza()));
-            Console.WriteLine(new MushroomPizza(new AmericanPizza()));
+            contact = new Contact(Guid.NewGuid(), "Данил", "Абунин", "+78005553535", "mom@mail.ru");
+            var client = new Client(contact, "Мебель");
+
+            var price = 10000;
+            var status = "В процессе";
+            var order = new Order(Guid.NewGuid(), price, status, client, employee);
+
+            var info = order.GetOrderInfo();
+
+            Console.WriteLine(info);
         }
     }
 

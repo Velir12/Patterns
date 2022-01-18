@@ -4,3 +4,10 @@ C:\Users\Вано\Desktop\GitHub\Программирование\Самообу
 C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.exe
 C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.pdb
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.exe.config
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.exe
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.pdb
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.exe
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\AbstractFactory\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp.pdb

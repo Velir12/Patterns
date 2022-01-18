@@ -11,125 +11,67 @@ namespace Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp
     /// </summary>
     public abstract class AbstractFactory
     {
-        #region Методы абстрактной фабрики.
 
         /// <summary>
-        /// Создать телефон.
+        /// Создание документа.
         /// </summary>
-        /// <returns> Телефон.</returns>
-        public abstract AbstractPhone CreatePhone();
+        /// <returns> Документ.</returns>
+        public abstract AbstractDocument CreateDocument(string data);
 
-        /// <summary>
-        /// Создать наушники.
-        /// </summary>
-        /// <returns>< Нашуники.</returns>
-        public abstract AbstractHeadPhones CreateHeadPhones();
-
-        /// <summary>
-        /// Создать зарядку.
-        /// </summary>
-        /// <returns> Зарядку.</returns>
-        public abstract AbstractCharging CreateCharging();
-
-        #endregion
     }
 
     #region Классы связанные с абстрактной фабрикой.
 
     /// <summary>
-    /// Абстрактный телефон.
+    /// Абстрактный документ.
     /// </summary>
-    public abstract class AbstractPhone
+    public abstract class AbstractDocument
     {
-        #region Свойства
+        #region Свойства.
+        /// <summary>
+        /// Название документа.
+        /// </summary>
+        protected string Name { get; set;}
 
         /// <summary>
-        /// Название телфона.
+        /// Тип документа.
         /// </summary>
-        protected string Name { get; set; }
+        protected string DocumentType { get; set; }
 
         /// <summary>
-        /// Тип системы.
+        /// Данные  в документе.
         /// </summary>
-        protected string OSType { get; set; }
+        protected string Data { get; set; }
 
         /// <summary>
-        /// Количество памяти в Мб.
+        /// Количество копий.
         /// </summary>
-        protected int Memory { get; set; }
-
-        /// <summary>
-        /// Цена.
-        /// </summary>
-        protected int Price { get; set; }
+        protected int CopyAmount { get; set; }
 
         #endregion
+
+        public AbstractDocument(string data)
+        {
+            Data = ConvertData(data);
+        }
+
+        /// <summary>
+        /// Преобразование данных в подходящий формат.
+        /// </summary>
+        /// <param name="data"> Данные.</param>
+        /// <returns> Данные в нужном формате.</returns>
+        public abstract string ConvertData(string data);
 
         public override string ToString()
         {
             var sb = new StringBuilder();
-            sb.Append($"Телефон: {Name}\n");
-            sb.Append($"Тип ОС: {OSType}\n");
-            sb.Append($"Количество памяти (Мб): {Memory}\n");
-            sb.Append($"Цена: {Price}\n");
+            sb.Append($"Нзавание документов: {Name}\n");
+            sb.Append($"Тип документа: {DocumentType}\n");
+            sb.Append($"Количество копий документа: {CopyAmount}\n");
+            sb.Append($"\nДанные в документе: \n{Data}\n");
             return sb.ToString();
         }
-    }
 
-    /// <summary>
-    /// Абтсрактные наушники.
-    /// </summary>
-    public abstract class AbstractHeadPhones
-    {
-        #region Свойства
-
-        /// <summary>
-        /// Название наушников.
-        /// </summary>
-        protected string Name { get; set; }
-
-        /// <summary>
-        /// Цена.
-        /// </summary>
-        protected int Price { get; set; }
-
-        #endregion
-
-        public override string ToString()
-        {
-            var sb = new StringBuilder();
-            sb.Append($"Наушники: {Name}\n");
-            sb.Append($"Цена: {Price}\n");
-            return sb.ToString();
-        }
-    }
-    
-    /// <summary>
-    /// Абстрактная зарядка.
-    /// </summary>
-    public abstract class AbstractCharging
-    {
-        #region Свойства
-
-        /// <summary>
-        /// Тип зарядки.
-        /// </summary>
-        protected string Type { get; set; }
-
-        /// <summary>
-        /// Цена.
-        /// </summary>
-        protected int Price { get; set; }
-
-        #endregion
-
-        public override string ToString()
-        {
-            var sb = new StringBuilder();
-            sb.Append($"Тип зарядки: {Type}\n");
-            sb.Append($"Цена: {Price}\n");
-            return sb.ToString();
-        }
     }
 
     #endregion

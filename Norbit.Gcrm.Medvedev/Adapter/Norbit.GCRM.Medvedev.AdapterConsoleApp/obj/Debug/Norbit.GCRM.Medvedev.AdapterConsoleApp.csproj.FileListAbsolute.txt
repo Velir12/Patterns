@@ -12,3 +12,10 @@ C:\Users\Вано\Desktop\GitHub\Программирование\Самообу
 C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.exe
 C:\Users\Вано\Desktop\GitHub\Программирование\Самообучение\Паттерны\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.pdb
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.exe.config
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.exe
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\bin\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.pdb
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.exe
+C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Adapter\Norbit.GCRM.Medvedev.AdapterConsoleApp\obj\Debug\Norbit.GCRM.Medvedev.AdapterConsoleApp.pdb

@@ -10,10 +10,10 @@ namespace Norbit.GCRM.Medvedev.AbstractFacrotyConsoleApp
     {
         static void Main(string[] args)
         {
-            var client = new Client(new AppleFactory());
+            var client = new Client(new ExcelFactory());
             Console.WriteLine(client);
 
-            client = new Client(new SamsungFactory());
+            client = new Client(new WordFactory());
             Console.WriteLine(client);
 
         }

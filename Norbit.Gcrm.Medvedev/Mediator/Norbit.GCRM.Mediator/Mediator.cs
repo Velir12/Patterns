@@ -11,56 +11,30 @@ namespace Norbit.GCRM.Mediator
     /// </summary>
     public abstract class Mediator
     {
+
         /// <summary>
-        /// Отправить сообщение через посредникаю
+        /// Отправить данные через посредника.
         /// </summary>
-        /// <param name="msg"> Текст сообщения.</param>
-        /// <param name="subordinate"> Отправитель сообщение.</param>
-        public abstract void SendInformation(string msg, Subordinate subordinate);
+        /// <param name="data"> Данные.</param>
+        /// <param name="db"> База данных.</param>
+        public abstract void SendInformation(string data, DataBase db);
     }
 
-    /// <summary>
-    /// Менеджер.
-    /// </summary>
-    public class Manager : Mediator
+    public class ServiceHelper : Mediator
     {
-        #region Свойства менеджера.
+        public DataBase CreatioDb { get; set; }
 
-        /// <summary>
-        /// Заказчик.
-        /// </summary>
-        public Subordinate Customer { get; set; }
+        public DataBase DataBase1c  {get; set;}
 
-        /// <summary>
-        /// Программист.
-        /// </summary>
-        public Subordinate Programmer { get; set; }
-
-        /// <summary>
-        /// Аналитик.
-        /// </summary>
-        public Subordinate Analyst { get; set; }
-
-        #endregion
-
-        /// <summary>
-        /// Отправка информации одному из подчиненных.
-        /// </summary>
-        /// <param name="msg"> Сообщение.</param>
-        /// <param name="subordinate"> Подчиненный.</param>
-        public override void SendInformation(string msg, Subordinate subordinate)
+        public override void SendInformation(string data, DataBase db)
         {
-            if (Customer == subordinate)
+            if (CreatioDb == db)
             {
-                Analyst.Notify(msg);
+                DataBase1c.SendData(data);
             }
-            else if (Analyst == subordinate)
+            else
             {
-                Programmer.Notify(msg);
-            }
-            else if (Programmer == subordinate)
-            {
-                Customer.Notify(msg);
+                CreatioDb.SendData(data);
             }
 
         }

@@ -10,18 +10,17 @@ namespace Norbit.Gcrm.Medvedev.SingletonConsoleApp
     {
         static void Main(string[] args)
         {
-            var myComputer = Computer.GetComputer("Windows", 2048, "Intel Core i5");
-            Console.WriteLine(myComputer);
-            var newComputer = Computer.GetComputer("Windows", 4096, "Intel Core i9");
-            Console.WriteLine(newComputer);
+            var userConnection = UserConnection.GetUserConnection(false, true);
 
-            if (myComputer == newComputer)
+            var newUserConnection = UserConnection.GetUserConnection(true, true);
+
+            if (userConnection == newUserConnection)
             {
-                Console.WriteLine("Один и тот же компьютер");
+                Console.WriteLine("То же самое подключение");
             }
             else
             {
-                Console.WriteLine("Разные компьтеры");
+                Console.WriteLine("Разные подключения");
             }
         }
     }

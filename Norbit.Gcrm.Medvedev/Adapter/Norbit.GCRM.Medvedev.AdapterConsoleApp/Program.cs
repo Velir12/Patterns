@@ -10,10 +10,11 @@ namespace Norbit.GCRM.Medvedev.AdapterConsoleApp
     {
         static void Main(string[] args)
         {
-            var generator = new Generator();
-            var contoller = new Microcontroller(2048, "STM32");
+            var otherEntity = new Object1c(1, "Объект 1с");
 
-            contoller.Firmware(generator.Run(), "Код");
+            var serviceHelper = new ServiceHelper();
+            var adapter = new Adapter();
+            serviceHelper.ImportCreatioObject(adapter.ConvertToCreatioObject(otherEntity));
         }
     }
 }

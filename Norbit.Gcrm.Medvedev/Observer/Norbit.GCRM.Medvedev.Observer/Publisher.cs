@@ -91,7 +91,7 @@ namespace Norbit.GCRM.Medvedev.Observer
     /// </summary>
     public class Video
     {
-        #region Свойства.
+        #region Свойства
 
         /// <summary>
         /// Название видео.

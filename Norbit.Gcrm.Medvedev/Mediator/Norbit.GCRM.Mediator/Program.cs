@@ -10,21 +10,17 @@ namespace Norbit.GCRM.Mediator
     {
         static void Main(string[] args)
         {
-            Manager mediator = new Manager();
+            var service = new ServiceHelper();
 
-            Subordinate customer = new Сustomer(mediator);
-            Subordinate programmer = new Programer(mediator);
-            Subordinate analyst = new Analyst(mediator);
+            var db1c = new DataBase1c(service);
+            var creatio = new CreatioDataBase(service);
 
-            mediator.Customer = customer;
-            mediator.Programmer = programmer;
-            mediator.Analyst = analyst;
+            service.DataBase1c = db1c;
+            service.CreatioDb = creatio;
 
-            customer.SendMessage("Нужна интеграция с телефонией");
-            analyst.SendMessage("Нужен коннектор и сервис для телефонии");
-            programmer.SendMessage("Сервис и коннектор готовы.");
+            db1c.GetData("Данные из Creatio");
 
-
+            creatio.GetData("Данные из 1С");
         }
     }
 }
