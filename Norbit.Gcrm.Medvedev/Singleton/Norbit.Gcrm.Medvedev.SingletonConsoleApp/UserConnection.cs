@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace Norbit.Gcrm.Medvedev.SingletonConsoleApp
 {
-
+    /// <summary>
+    /// Пользовательское подключение.
+    /// </summary>
     public class UserConnection
     {
+        #region Свойства.
         /// <summary>
         /// Права администратора.
         /// </summary>
@@ -20,6 +23,8 @@ namespace Norbit.Gcrm.Medvedev.SingletonConsoleApp
         public bool DataBaseRigth { get; set; }
 
         private static UserConnection _userConnection;
+
+        #endregion
 
         private UserConnection(bool adminRight, bool dataBaseRigth)
         {
