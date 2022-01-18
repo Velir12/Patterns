@@ -7,8 +7,13 @@ using System.Threading.Tasks;
 
 namespace NORBIT.GCRM.Decorator
 {
+    /// <summary>
+    /// Заказ.
+    /// </summary>
     public class Order: CreatioBaseEntity
     {
+        #region Свойства.
+
         /// <summary>
         /// Цена заказа.
         /// </summary>
@@ -28,6 +33,8 @@ namespace NORBIT.GCRM.Decorator
         /// Ответственный за заказ сотрудник.
         /// </summary>
         public Employee Owner { get; set; }
+
+        #endregion
 
         public Order(Guid id, int price, string status, Client customer, Employee owner): base(id)
         {

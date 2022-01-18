@@ -53,15 +53,7 @@ namespace NORBIT.GCRM.Decorator
             return base.ToString() + sb.ToString();
         }
 
-        public void Call()
-        {
-            Console.WriteLine($"Совершен звонок {Surname} {Name} по номеру {Phone}");
-        }
-
-        public void SendEmail()
-        {
-            Console.WriteLine($"Отправлено письмо {Surname} {Name} по адресу {Email}");
-        }
+       
     }
 
 

@@ -12,3 +12,10 @@ C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decora
 C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\Norbit.GCRM.Decorator.csproj.CoreCompileInputs.cache
 C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.exe
 C:\Users\ivan.medvedev\Desktop\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.pdb
+C:\Users\ivan.medvedev\Desktop\Patterns\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\bin\Debug\NORBIT.GCRM.Decorator.exe.config
+C:\Users\ivan.medvedev\Desktop\Patterns\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\bin\Debug\NORBIT.GCRM.Decorator.exe
+C:\Users\ivan.medvedev\Desktop\Patterns\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\bin\Debug\NORBIT.GCRM.Decorator.pdb
+C:\Users\ivan.medvedev\Desktop\Patterns\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\Norbit.GCRM.Decorator.csproj.AssemblyReference.cache
+C:\Users\ivan.medvedev\Desktop\Patterns\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\Norbit.GCRM.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\ivan.medvedev\Desktop\Patterns\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.exe
+C:\Users\ivan.medvedev\Desktop\Patterns\Norbit.Gcrm.Medvedev\Decorator\NORBIT.GCRM.Decorator\obj\Debug\NORBIT.GCRM.Decorator.pdb

@@ -11,6 +11,8 @@ namespace Norbit.GCRM.Medvedev.AdapterConsoleApp
     /// </summary>
     public class CreatioObject
     {
+        #region Свойства.
+
         /// <summary>
         /// Уникальный идентификатор объекта.
         /// </summary>
@@ -35,6 +37,8 @@ namespace Norbit.GCRM.Medvedev.AdapterConsoleApp
         /// Имя объекта.
         /// </summary>
         public string Name { get; private set; }
+
+        #endregion
 
         public CreatioObject(Guid id, string name, int otherId)
         {

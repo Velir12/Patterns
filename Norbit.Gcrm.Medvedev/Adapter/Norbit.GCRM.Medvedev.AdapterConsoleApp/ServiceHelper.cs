@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace Norbit.GCRM.Medvedev.AdapterConsoleApp
 {
     /// <summary>
-    /// cthdb
+    /// Сервис для работы с Creatio.
     /// </summary>
     public class ServiceHelper : ICreatio
     {
         /// <summary>
         /// Импортировать объект Creatio.
         /// </summary>
-        /// <param name="creatioEntity"></param>
+        /// <param name="creatioEntity"> Объект Creatio.</param>
         public void ImportCreatioObject(CreatioObject creatioEntity)
         {
             Console.WriteLine("Запись успешно импортирована.");

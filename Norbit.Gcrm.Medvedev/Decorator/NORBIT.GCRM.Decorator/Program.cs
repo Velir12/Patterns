@@ -11,7 +11,7 @@ namespace Norbit.GCRM.Decorator
     {
         static void Main(string[] args)
         {
-            var contact = new Contact(Guid.NewGuid(), "Иван", "Медведев", "+79123365895", "elurezvelir2017@gmail.com");
+            var contact = new Contact(Guid.NewGuid(), "Иван", "Медведев", "+79123365895", "vano2@gmail.com");
             var employee = new Employee(contact, "Продавец мебели");
 
             contact = new Contact(Guid.NewGuid(), "Данил", "Абунин", "+78005553535", "mom@mail.ru");
