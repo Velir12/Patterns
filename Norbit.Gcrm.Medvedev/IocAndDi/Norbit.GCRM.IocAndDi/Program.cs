@@ -14,9 +14,9 @@ namespace Norbit.GCRM.IocAndDi
             var oracle = new OracleDbReader();
             var msSql = new MsSqlDBReader();
 
-            Console.WriteLine(new Dispaly(postgre).GetDataBaseData());
-            Console.WriteLine(new Dispaly(oracle).GetDataBaseData());
-            Console.WriteLine(new Dispaly(msSql).GetDataBaseData());
+            Console.WriteLine(new Display(postgre).GetDataBaseData());
+            Console.WriteLine(new Display(oracle).GetDataBaseData());
+            Console.WriteLine(new Display(msSql).GetDataBaseData());
         }
     }
 }

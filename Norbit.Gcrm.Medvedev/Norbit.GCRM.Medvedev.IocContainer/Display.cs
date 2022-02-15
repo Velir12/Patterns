@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Norbit.GCRM.IocAndDi
+namespace Norbit.GCRM.Medvedev.IocContainer
 {
     /// <summary>
     /// Дисплей для отображения данных.
